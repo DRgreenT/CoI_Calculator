@@ -6,12 +6,12 @@ I'm looking forward to starting to mod this game at some point too.
 If you find any bugs or have ideas on how to improve or further develop this program, please let me know.
 
 
-System requirement: Microsoft .NET Core App Version 7.0.0. (If missing, the system will prompt you to install it.) 
-Link: https://dotnet.microsoft.com/en-us/download/dotnet/7.0
+System requirement: Microsoft .NET Version 8.0.0.(x86) (If missing, the system will prompt you to install it.) 
+Link: https://dotnet.microsoft.com/en-us/download/dotnet/8.0
 
 Contains: 
 CoI_Calc.0.1.0.exe // Just download it, no installation necessary - Windows might block it the first time you open it due to the unknown publisher.
-readme.txt
+readme.txt //this file
 
 Features:
 ===================================
