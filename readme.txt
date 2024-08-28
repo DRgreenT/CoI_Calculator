@@ -9,6 +9,14 @@ If you find any bugs or have ideas on how to improve or further develop this pro
 System requirement: Microsoft .NET Core App Version 7.0.0. (If missing, the system will prompt you to install it.) 
 Link: https://dotnet.microsoft.com/en-us/download/dotnet/7.0
 
+Contains: 
+CoI_Calc.0.1.0.exe // Just download it, no installation necessary - Windows might block it the first time you open it due to the unknown publisher.
+readme.txt
+
+Features:
+===================================
+Calculating monthly total truck, ship, and building usage and production.
+
 Planed:
 ===================================
 - Crude oil usage, production, forecast
@@ -19,5 +27,14 @@ Releases:
 Release 0.1.0 - Basic functionality (diesel)
 
 
-
+Disclaimer:
+===================================
+Since this program is part of my learning process in programming, 
+I will not take any responsibility for any software or hardware damage 
+that may occur as a result of using this application. 
+This software is provided "as is," without any warranty, express or implied, 
+including but not limited to the implied warranties of merchantability, 
+fitness for a particular purpose, or non-infringement.
+Use it at your own risk. 
+It is recommended to use this software in a secure environment and to regularly back up your data.
  
