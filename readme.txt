@@ -11,6 +11,8 @@ Link: https://dotnet.microsoft.com/en-us/download/dotnet/8.0
 
 Contains: 
 CoI_Calc.0.1.0.exe // Just download it, no installation necessary - Windows might block it the first time you open it due to the unknown publisher.
+
+CoI_Calc.0.1.0.png // preview current state
 readme.txt //this file
 
 Features:
