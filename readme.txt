@@ -18,6 +18,7 @@ readme.txt //this file
 Features:
 ===================================
 Calculating monthly total truck, ship, and building usage and production.
+Colormode button toggles background color for surplus on or off. 
 
 Planed:
 ===================================
